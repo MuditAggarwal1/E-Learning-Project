@@ -41,9 +41,9 @@ Some Screenshots Of The Application:
   </tr>
  </table>
  </p>
- APP APK LINK  (https://drive.google.com/file/d/1hseSQ0lszpN-kqgFnsOdistNthQy1EXd/view?usp=drive_link)
+ APP APK LINK  (https://drive.google.com/file/d/14mXbCsZxE87AB31JfdKG16Q5UaCKX-YX/view?usp=sharing)
  
- APP VIDEO LINK (https://drive.google.com/file/d/1FdGChvytEWu6XuvTAx6Px8uGDDsmH7AX/view?usp=drive_link)
+ APP VIDEO LINK (https://drive.google.com/file/d/1Mf8mf51V2uxVW5_Br4CHtCb6YIlnFa7c/view?usp=sharing)
 
  
 # E-Learning-Project
