@@ -19,7 +19,7 @@ The development of an e-learning online courses Flutter project involves leverag
 </div>
 
 Some Screenshots Of The Application: 
-<p align="center" float="left">
+<p align="center" float="center">
 <table>
   <tr>
     <td>Logo</td>
